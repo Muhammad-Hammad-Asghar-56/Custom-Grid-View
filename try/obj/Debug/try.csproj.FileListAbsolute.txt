@@ -1,0 +1,13 @@
+D:\2nd Semester\OOP\customDataGrid\try\bin\Debug\@try.exe.config
+D:\2nd Semester\OOP\customDataGrid\try\bin\Debug\@try.exe
+D:\2nd Semester\OOP\customDataGrid\try\bin\Debug\@try.pdb
+D:\2nd Semester\OOP\customDataGrid\try\obj\Debug\try.csproj.AssemblyReference.cache
+D:\2nd Semester\OOP\customDataGrid\try\obj\Debug\try.Form1.resources
+D:\2nd Semester\OOP\customDataGrid\try\obj\Debug\try.Properties.Resources.resources
+D:\2nd Semester\OOP\customDataGrid\try\obj\Debug\try.csproj.GenerateResource.cache
+D:\2nd Semester\OOP\customDataGrid\try\obj\Debug\try.csproj.CoreCompileInputs.cache
+D:\2nd Semester\OOP\customDataGrid\try\obj\Debug\@try.exe
+D:\2nd Semester\OOP\customDataGrid\try\obj\Debug\@try.pdb
+D:\2nd Semester\OOP\customDataGrid\try\bin\Debug\customDataGrid.dll
+D:\2nd Semester\OOP\customDataGrid\try\bin\Debug\customDataGrid.pdb
+D:\2nd Semester\OOP\customDataGrid\try\obj\Debug\try.csproj.CopyComplete

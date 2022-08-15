@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32428.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "customDataGrid", "customDataGrid\customDataGrid.csproj", "{CC56EF2C-B634-4B37-AE4D-913D32B674E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "try", "try\try.csproj", "{9161401A-FD74-4D82-AD3D-82E0323DC102}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC56EF2C-B634-4B37-AE4D-913D32B674E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC56EF2C-B634-4B37-AE4D-913D32B674E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC56EF2C-B634-4B37-AE4D-913D32B674E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC56EF2C-B634-4B37-AE4D-913D32B674E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9161401A-FD74-4D82-AD3D-82E0323DC102}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9161401A-FD74-4D82-AD3D-82E0323DC102}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9161401A-FD74-4D82-AD3D-82E0323DC102}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9161401A-FD74-4D82-AD3D-82E0323DC102}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B94720B2-8FD6-44DB-8D00-3E176D416289}
+	EndGlobalSection
+EndGlobal
